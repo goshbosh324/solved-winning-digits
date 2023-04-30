@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-winning-digits
+<br>
+<p class="ui header product-top-header" title="Write a program that simulates a lottery">Write a program that simulates a lottery. The program should have an array of 5 integers named winningDigits, with a randomly generated number in the range of 0 through 9 for each element in the array. The program should ask the user to enter 5 digits and should store them in a second integer array named player. The program must compare the corresponding elements in the two arrays and count how many digits match. For example, the following shows the winningDigits array and the Player array with sample numbers stored in each. There are two matching digits, elements 2 and 4.Once the user has entered a set of numbers, the program should display the winning digits and the player’s digits and tell how many digits matched.To make sure your code works, display the contents of the winningDigits array.
+
+<span class="kksr-muted">Rate this product</span>
